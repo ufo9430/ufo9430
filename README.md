@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 서울시립대학교 전자전기컴퓨터공학부
+
+
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ufo9430)](https://solved.ac/ufo9430)
 
 
